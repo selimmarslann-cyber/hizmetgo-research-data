@@ -1,5 +1,7 @@
 # Hizmetgo Pazar Nabzı — Türkiye Hizmet Talep Haritası
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21886502.svg)](https://doi.org/10.5281/zenodo.21886502)
+
 Bu depo, Hizmetgo platformunda oluşan hizmet taleplerinin anonimleştirilmiş ve toplulaştırılmış 2026-08 veri sürümünü içerir.
 
 ## Kaynak
