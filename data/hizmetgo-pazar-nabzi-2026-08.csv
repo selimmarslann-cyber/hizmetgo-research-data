@@ -1,0 +1,74 @@
+veri_turu,boyut,deger,talep_sayisi,donem_baslangici,donem_sonu,not
+Hizmetgo platform talebi,şehir,İstanbul,167,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,İzmir,61,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Ankara,45,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Bursa,44,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Antalya,36,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Adana,32,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Mersin,32,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Kayseri,25,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Kocaeli,24,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Konya,22,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Balıkesir,21,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Samsun,20,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Edirne,19,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Manisa,17,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Sakarya,16,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Hatay,16,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Tekirdağ,14,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Giresun,13,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Çanakkale,13,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Muğla,13,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Burdur,12,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Trabzon,12,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Rize,11,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,şehir,Elazığ,11,2026-05-11,2026-08-09,Yayın eşiği: en az 10 talep
+Hizmetgo platform talebi,kategori,Ev Temizliği,133,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Ev ve İnşaat Sonrası Temizlik,55,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Kadınlar İçin Masaj,55,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Masaj,43,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Montaj Dahil Klima,19,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Fayans Döşeme,13,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Evden Eve Nakliyat,12,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Duvar Ustası,10,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Kapı Ustası,9,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Online Özel Ders,9,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Evde Hemşire,8,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Çim Biçme,8,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Bahçe Düzenleme,7,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Afiş Baskı,7,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Kuyu Açma,7,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Koltuk Yaptırma,6,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Boya Badana,6,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Çilingir,6,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Saç Kesimi,6,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Elektrikli Scooter Tamiri,6,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Cam Değişimi,6,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Alt Kata Su Sızması Tamiri,5,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Daire Boyama,5,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Düğün Catering,5,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,kategori,Boyacı / Boya Badana Ustası,5,2026-05-11,2026-08-09,Yayın eşiği: en az 5 talep
+Hizmetgo platform talebi,saat,00:00,36,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,01:00,35,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,02:00,14,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,03:00,7,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,04:00,4,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,05:00,12,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,06:00,14,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,07:00,9,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,08:00,29,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,09:00,36,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,10:00,58,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,11:00,63,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,12:00,81,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,13:00,75,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,14:00,76,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,15:00,86,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,16:00,85,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,17:00,65,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,18:00,69,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,19:00,60,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,20:00,65,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,21:00,49,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,22:00,65,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
+Hizmetgo platform talebi,saat,23:00,63,2026-05-11,2026-08-09,Europe/Istanbul saat dilimi
