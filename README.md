@@ -13,6 +13,11 @@ Güncel metodoloji, görselleştirmeler ve indirilebilir veri için:
 
 Makinece okunabilir veri paketi tanımı: [`datapackage.json`](datapackage.json)
 
+17 kategoriye ait kalıcı tüketici kaynakları ve güncel iş akışları ayrıca
+[`hizmetgo-kategori-kaynaklari-2026-08.csv`](data/hizmetgo-kategori-kaynaklari-2026-08.csv)
+dosyasında makinece okunabilir biçimde yayımlanır. Bu eşleme, geçici tekil
+ilanları değil, güncelliğini koruyan kategori köklerini kullanır.
+
 ## Kapsam
 
 - Dönem: 11 Mayıs–9 Ağustos 2026

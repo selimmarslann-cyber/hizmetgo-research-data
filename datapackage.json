@@ -4,7 +4,7 @@
   "title": "Hizmetgo Pazar Nabzı — Türkiye Hizmet Talep Haritası",
   "description": "Hizmetgo platformundaki anonimleştirilmiş ve toplulaştırılmış hizmet taleplerinin şehir, kategori ve saat kırılımları.",
   "homepage": "https://www.hizmetgo.app/arastirmalar/pazar-nabzi",
-  "version": "2026-08-11",
+  "version": "2026-08-23",
   "licenses": [
     {
       "name": "CC-BY-4.0",
@@ -46,6 +46,24 @@
           { "name": "donem_baslangici", "type": "date" },
           { "name": "donem_sonu", "type": "date" },
           { "name": "not", "type": "string" }
+        ]
+      }
+    },
+    {
+      "name": "hizmetgo-kategori-kaynaklari-2026-08",
+      "path": "data/hizmetgo-kategori-kaynaklari-2026-08.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "primaryKey": "kategori_slug",
+        "fields": [
+          { "name": "kategori", "type": "string" },
+          { "name": "kategori_slug", "type": "string" },
+          { "name": "tuketici_kaynagi", "type": "string", "format": "uri" },
+          { "name": "guncel_is_akisi", "type": "string", "format": "uri" },
+          { "name": "aciklama", "type": "string" }
         ]
       }
     }
