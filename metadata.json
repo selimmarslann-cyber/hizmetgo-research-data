@@ -1,12 +1,21 @@
 {
-    "source":  "https://www.hizmetgo.app/arastirmalar/pazar-nabzi",
-    "personalData":  false,
-    "temporalCoverage":  "2026-05-11/2026-08-09",
-    "version":  "2026-08-11",
-    "license":  "CC-BY-4.0",
-    "publisher":  "Hizmetgo",
-    "language":  "tr-TR",
-    "title":  "Hizmetgo Pazar Nabzı — Türkiye Hizmet Talep Haritası",
-    "download":  "https://www.hizmetgo.app/arastirmalar/pazar-nabzi/indir",
-    "spatialCoverage":  "Türkiye"
+  "source": "https://www.hizmetgo.app/arastirmalar/pazar-nabzi",
+  "doi": "10.5281/zenodo.21886502",
+  "repository": "https://github.com/selimmarslann-cyber/hizmetgo-research-data",
+  "personalData": false,
+  "temporalCoverage": "2026-05-11/2026-08-09",
+  "version": "2026-08-11",
+  "license": "CC-BY-4.0",
+  "publisher": "Hizmetgo",
+  "language": "tr-TR",
+  "title": "Hizmetgo Pazar Nabzı — Türkiye Hizmet Talep Haritası",
+  "download": "https://www.hizmetgo.app/arastirmalar/pazar-nabzi/indir",
+  "spatialCoverage": "Türkiye",
+  "keywords": [
+    "Türkiye hizmet ekonomisi",
+    "yerel hizmet talebi",
+    "hizmet pazaryeri",
+    "açık veri",
+    "şehir bazlı talep"
+  ]
 }

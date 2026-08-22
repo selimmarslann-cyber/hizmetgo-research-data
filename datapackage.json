@@ -1,0 +1,53 @@
+{
+  "profile": "tabular-data-package",
+  "name": "hizmetgo-pazar-nabzi-2026-08",
+  "title": "Hizmetgo Pazar Nabzı — Türkiye Hizmet Talep Haritası",
+  "description": "Hizmetgo platformundaki anonimleştirilmiş ve toplulaştırılmış hizmet taleplerinin şehir, kategori ve saat kırılımları.",
+  "homepage": "https://www.hizmetgo.app/arastirmalar/pazar-nabzi",
+  "version": "2026-08-11",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hizmetgo Pazar Nabzı metodolojisi",
+      "path": "https://www.hizmetgo.app/arastirmalar/pazar-nabzi"
+    },
+    {
+      "title": "Kalıcı DOI kaydı",
+      "path": "https://doi.org/10.5281/zenodo.21886502"
+    }
+  ],
+  "keywords": [
+    "Türkiye hizmet ekonomisi",
+    "yerel hizmet talebi",
+    "hizmet pazaryeri",
+    "açık veri",
+    "şehir bazlı talep"
+  ],
+  "resources": [
+    {
+      "name": "hizmetgo-pazar-nabzi-2026-08",
+      "path": "data/hizmetgo-pazar-nabzi-2026-08.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          { "name": "veri_turu", "type": "string" },
+          { "name": "boyut", "type": "string" },
+          { "name": "deger", "type": "string" },
+          { "name": "talep_sayisi", "type": "integer" },
+          { "name": "donem_baslangici", "type": "date" },
+          { "name": "donem_sonu", "type": "date" },
+          { "name": "not", "type": "string" }
+        ]
+      }
+    }
+  ]
+}
