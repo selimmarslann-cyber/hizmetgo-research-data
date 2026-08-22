@@ -1,0 +1,18 @@
+kategori,kategori_slug,intent_terms,dil,ulke,tuketici_kaynagi,hizmetveren_akisi
+Ev Temizliği,ev-temizligi,ev temizliği|temizlikçi|günlük temizlik,tr,TR,https://www.hizmetgo.app/fiyatlari/ev-temizligi,https://www.hizmetgo.app/hizmet-ver/ev-temizligi
+Elektrik,elektrik,elektrikçi|elektrik arızası|priz tamiri,tr,TR,https://www.hizmetgo.app/fiyatlari/elektrikci,https://www.hizmetgo.app/hizmet-ver/elektrik
+Su Tesisatı,su-tesisati,su tesisatçısı|su kaçağı|tıkanıklık açma,tr,TR,https://www.hizmetgo.app/fiyatlari/su-tesisati,https://www.hizmetgo.app/hizmet-ver/su-tesisati
+Boya Badana,boya-badana,boyacı|ev boyama|badana,tr,TR,https://www.hizmetgo.app/hizmetler/boya-badana,https://www.hizmetgo.app/hizmet-ver/boya-badana
+Çilingir,cilingir,çilingir|kilit değişimi|kapı açma,tr,TR,https://www.hizmetgo.app/fiyatlari/cilingir,https://www.hizmetgo.app/hizmet-ver/cilingir
+Nakliyat,nakliyat,evden eve nakliyat|nakliyeci|eşya taşıma,tr,TR,https://www.hizmetgo.app/fiyatlari/nakliyat,https://www.hizmetgo.app/hizmet-ver/nakliyat
+Beyaz Eşya Tamiri,beyaz-esya-tamiri,beyaz eşya tamiri|çamaşır makinesi tamiri|bulaşık makinesi tamiri,tr,TR,https://www.hizmetgo.app/fiyatlari/beyaz-esya-tamiri,https://www.hizmetgo.app/hizmet-ver/beyaz-esya-tamiri
+Klima Servisi,klima-servisi,klima servisi|klima bakımı|klima montajı,tr,TR,https://www.hizmetgo.app/fiyatlari/klima-servisi,https://www.hizmetgo.app/hizmet-ver/klima-servisi
+Marangoz,marangoz,marangoz|mobilya montajı|dolap yapımı,tr,TR,https://www.hizmetgo.app/fiyatlari/marangoz,https://www.hizmetgo.app/hizmet-ver/marangoz
+Halı Yıkama,hali-yikama,halı yıkama|koltuk yıkama|yerinde yıkama,tr,TR,https://www.hizmetgo.app/fiyatlari/hali-yikama,https://www.hizmetgo.app/hizmet-ver/hali-yikama
+Çatı İşleri,cati-isleri,çatı ustası|çatı tamiri|çatı izolasyonu,tr,TR,https://www.hizmetgo.app/fiyatlari/cati-isleri,https://www.hizmetgo.app/hizmet-ver/cati-isleri
+Bahçıvan,bahcivan,bahçıvan|bahçe bakımı|peyzaj,tr,TR,https://www.hizmetgo.app/hizmetler/bahcivan,https://www.hizmetgo.app/hizmet-ver/bahcivan
+Cam Balkon,cam-balkon,cam balkon|cam balkon fiyatları|balkon kapatma,tr,TR,https://www.hizmetgo.app/fiyatlari/cam-balkon,https://www.hizmetgo.app/hizmet-ver/cam-balkon
+Güvenlik Sistemleri,guvenlik-sistemleri,güvenlik kamerası|alarm sistemi|kamera kurulumu,tr,TR,https://www.hizmetgo.app/fiyatlari/guvenlik-sistemleri,https://www.hizmetgo.app/hizmet-ver/guvenlik-sistemleri
+Tadilat,tadilat,ev tadilatı|banyo yenileme|komple tadilat,tr,TR,https://www.hizmetgo.app/fiyatlari/tadilat,https://www.hizmetgo.app/hizmet-ver/tadilat
+Fotoğrafçı,fotografci,fotoğrafçı|düğün fotoğrafçısı|ürün çekimi,tr,TR,https://www.hizmetgo.app/fiyatlari/fotografci,https://www.hizmetgo.app/hizmet-ver/fotografci
+Kombi Servisi,kombi-servisi,kombi servisi|kombi bakımı|petek temizliği,tr,TR,https://www.hizmetgo.app/fiyatlari/kombi-servisi,https://www.hizmetgo.app/hizmet-ver/kombi-servisi

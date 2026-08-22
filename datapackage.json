@@ -66,6 +66,26 @@
           { "name": "aciklama", "type": "string" }
         ]
       }
+    },
+    {
+      "name": "turkish-local-service-intents-17",
+      "path": "data/turkish-local-service-intents-17.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "primaryKey": "kategori_slug",
+        "fields": [
+          { "name": "kategori", "type": "string" },
+          { "name": "kategori_slug", "type": "string" },
+          { "name": "intent_terms", "type": "string" },
+          { "name": "dil", "type": "string" },
+          { "name": "ulke", "type": "string" },
+          { "name": "tuketici_kaynagi", "type": "string", "format": "uri" },
+          { "name": "hizmetveren_akisi", "type": "string", "format": "uri" }
+        ]
+      }
     }
   ]
 }

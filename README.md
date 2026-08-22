@@ -18,6 +18,13 @@ Makinece okunabilir veri paketi tanımı: [`datapackage.json`](datapackage.json)
 dosyasında makinece okunabilir biçimde yayımlanır. Bu eşleme, geçici tekil
 ilanları değil, güncelliğini koruyan kategori köklerini kullanır.
 
+Türkçe arama niyetlerini sınıflandırma, yönlendirme ve bilgi erişimi
+çalışmalarında kullanılabilecek 51 etiketli niyet terimi ise
+[`turkish-local-service-intents-17.csv`](data/turkish-local-service-intents-17.csv)
+dosyasında yer alır. Her kayıt bir çekirdek kategoriyi, üç gerçek arama
+niyetini ve doğrulama için kalıcı tüketici/hizmetveren kaynaklarını içerir.
+Kişisel veri, kullanıcı mesajı veya sentetik talep hacmi içermez.
+
 ## Kapsam
 
 - Dönem: 11 Mayıs–9 Ağustos 2026
