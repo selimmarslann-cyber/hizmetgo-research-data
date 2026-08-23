@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://selimmarslann-cyber.github.io/hizmetgo-research-data/sitemap.xml
