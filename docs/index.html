@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Hizmetgo Açık Veri Kataloğu — 17 Hizmet Kategorisi</title>
-  <meta name="description" content="Hizmetgo Pazar Nabzı veri setindeki 17 hizmet kategorisinin kalıcı tüketici kaynakları ve güncel iş akışları.">
+  <title>Hizmetgo Açık Veri Kataloğu — Hizmet Takvimi ve 17 Kategori</title>
+  <meta name="description" content="Türkiye'de 14 yerel hizmetin Google Trends takvimi ile 17 hizmet kategorisinin kalıcı tüketici ve güncel iş akışı kaynakları.">
   <link rel="canonical" href="https://selimmarslann-cyber.github.io/hizmetgo-research-data/">
   <style>
     :root{color-scheme:light;--ink:#142033;--muted:#5e6b7d;--line:#dce2ea;--accent:#e85d04;--soft:#f6f8fb}
@@ -19,20 +19,35 @@
     @media(max-width:700px){thead{display:none}tr{display:block;padding:12px 0}td{display:block;border:0;padding:3px 0}td:first-child{font-size:1.05rem;font-weight:800;margin-bottom:4px}}
   </style>
   <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"Dataset","name":"Hizmetgo 17 Kategori Kaynak Eşlemesi","description":"Hizmetgo Pazar Nabzı veri setindeki 17 kategorinin kalıcı tüketici ve güncel iş akışı kaynakları.","url":"https://selimmarslann-cyber.github.io/hizmetgo-research-data/","creator":{"@type":"Organization","name":"Hizmetgo","url":"https://www.hizmetgo.app/"},"license":"https://creativecommons.org/licenses/by/4.0/","isPartOf":"https://doi.org/10.5281/zenodo.21886501","distribution":{"@type":"DataDownload","encodingFormat":"text/csv","contentUrl":"https://raw.githubusercontent.com/selimmarslann-cyber/hizmetgo-research-data/main/data/hizmetgo-kategori-kaynaklari-2026-08.csv"}}
+  {"@context":"https://schema.org","@type":"Dataset","name":"Hizmetgo Türkiye Hizmet Takvimi ve 17 Kategori Açık Veri Paketi","description":"Türkiye'de 14 yerel hizmetin Google Trends mevsimselliği ile 17 kategorinin kalıcı tüketici ve güncel iş akışı kaynakları.","url":"https://selimmarslann-cyber.github.io/hizmetgo-research-data/","creator":{"@type":"Organization","name":"Hizmetgo","url":"https://www.hizmetgo.app/"},"license":"https://creativecommons.org/licenses/by/4.0/","dateModified":"2026-08-23","identifier":"https://doi.org/10.5281/zenodo.22068892","isPartOf":"https://doi.org/10.5281/zenodo.21886501","sameAs":["https://github.com/selimmarslann-cyber/hizmetgo-research-data/releases/tag/v2026.08.23","https://zenodo.org/records/22068892"],"distribution":[{"@type":"DataDownload","encodingFormat":"text/csv","contentUrl":"https://raw.githubusercontent.com/selimmarslann-cyber/hizmetgo-research-data/main/data/hizmetgo-hizmet-takvimi-2026-08.csv"},{"@type":"DataDownload","encodingFormat":"text/csv","contentUrl":"https://raw.githubusercontent.com/selimmarslann-cyber/hizmetgo-research-data/main/data/hizmetgo-hizmet-takvimi-aylik-2026-08.csv"},{"@type":"DataDownload","encodingFormat":"text/csv","contentUrl":"https://raw.githubusercontent.com/selimmarslann-cyber/hizmetgo-research-data/main/data/hizmetgo-kategori-kaynaklari-2026-08.csv"}]}
   </script>
 </head>
 <body>
 <main>
   <section class="hero">
     <div class="eyebrow">Hizmetgo açık veri</div>
-    <h1>17 hizmet kategorisi için kalıcı kaynak kataloğu</h1>
+    <h1>Türkiye hizmet takvimi ve 17 kategori için kalıcı kaynak kataloğu</h1>
     <p>Bu katalog, Pazar Nabzı veri setindeki kategori adlarını tüketici rehberleri ve hizmetverenler için güncel iş akışlarıyla eşleştirir. Bağlantılar tekil ve süresi dolabilen ilanlara değil, kalıcı kategori köklerine gider.</p>
     <div class="actions">
+      <a class="button alt" href="https://www.hizmetgo.app/arastirmalar/hizmet-takvimi">Türkiye Hizmet Takvimi</a>
       <a class="button alt" href="https://www.hizmetgo.app/arastirmalar/pazar-nabzi">Metodolojiyi incele</a>
-      <a class="button" href="https://doi.org/10.5281/zenodo.21886501">Kalıcı DOI</a>
+      <a class="button" href="https://doi.org/10.5281/zenodo.22068892">Güncel DOI sürümü</a>
       <a class="button" href="https://raw.githubusercontent.com/selimmarslann-cyber/hizmetgo-research-data/main/data/hizmetgo-kategori-kaynaklari-2026-08.csv">CSV indir</a>
     </div>
+  </section>
+  <section class="panel">
+    <h2>Türkiye'nin hizmet takvimi</h2>
+    <p>Google Trends Türkiye verisi, yerel hizmet talebinin yıl içinde iki belirgin dönemde yoğunlaştığını gösteriyor. Klima montajı temmuzda yıllık aylık ortalamanın 4,01 katına ulaşırken kombi bakımı ve petek temizliği ekimde zirve yapıyor.</p>
+    <table>
+      <thead><tr><th>Hizmet</th><th>Zirve ayı</th><th>Mevsimsellik katsayısı</th><th>Kaynak</th></tr></thead>
+      <tbody>
+        <tr><td>Klima montajı</td><td>Temmuz</td><td>4,01×</td><td><a href="https://www.hizmetgo.app/arastirmalar/hizmet-takvimi">Analiz ve metodoloji</a></td></tr>
+        <tr><td>Klima temizliği</td><td>Temmuz</td><td>3,37×</td><td><a href="https://raw.githubusercontent.com/selimmarslann-cyber/hizmetgo-research-data/main/data/hizmetgo-hizmet-takvimi-aylik-2026-08.csv">Aylık CSV</a></td></tr>
+        <tr><td>Kombi bakımı</td><td>Ekim</td><td>2,62×</td><td><a href="https://raw.githubusercontent.com/selimmarslann-cyber/hizmetgo-research-data/main/data/hizmetgo-hizmet-takvimi-2026-08.csv">Zirve ve katsayı CSV</a></td></tr>
+        <tr><td>Petek temizliği</td><td>Ekim</td><td>2,64×</td><td><a href="https://doi.org/10.5281/zenodo.22068892">Kalıcı veri sürümü</a></td></tr>
+      </tbody>
+    </table>
+    <p class="note">Katsayı, zirve ayındaki ortalama ilginin yıllık aylık ortalamaya oranıdır. Google Trends değerleri 0–100 göreli ilgidir; mutlak arama hacmi değildir.</p>
   </section>
   <section class="panel">
     <h2>Kategori kaynakları</h2>
