@@ -86,6 +86,33 @@
           { "name": "hizmetveren_akisi", "type": "string", "format": "uri" }
         ]
       }
+    },
+    {
+      "name": "hizmetgo-hizmet-takvimi-2026-08",
+      "path": "data/hizmetgo-hizmet-takvimi-2026-08.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "title": "Türkiye'nin Hizmet Takvimi — zirve ayı ve mevsimsellik"
+    },
+    {
+      "name": "hizmetgo-hizmet-takvimi-aylik-2026-08",
+      "path": "data/hizmetgo-hizmet-takvimi-aylik-2026-08.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "title": "Türkiye'nin Hizmet Takvimi — aylık göreli arama ilgisi"
+    },
+    {
+      "name": "hizmetgo-klima-montaji-il-endeksi-2026-08",
+      "path": "data/hizmetgo-klima-montaji-il-endeksi-2026-08.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "title": "Klima montajı Google Trends il endeksi"
     }
   ]
 }

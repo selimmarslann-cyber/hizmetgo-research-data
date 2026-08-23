@@ -1,14 +1,15 @@
-# Hizmetgo Pazar Nabzı — Türkiye Hizmet Talep Haritası
+# Hizmetgo Araştırma Verileri — Türkiye Hizmet Ekonomisi
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21886502.svg)](https://doi.org/10.5281/zenodo.21886502)
 
-Bu depo, Hizmetgo platformunda oluşan hizmet taleplerinin anonimleştirilmiş ve toplulaştırılmış 2026-08 veri sürümünü içerir.
+Bu depo, Hizmetgo'nun Türkiye hizmet ekonomisine ilişkin açık ve kaynak gösterilebilir veri paketlerini içerir. Pazar Nabzı platform taleplerini; Hizmet Takvimi ise Google Trends göreli arama ilgisini ayrı veri setleri olarak yayımlar.
 
 ## Kaynak
 
 Güncel metodoloji, görselleştirmeler ve indirilebilir veri için:
 
 - [Türkiye Hizmet Talep Haritası — Hizmetgo Pazar Nabzı](https://www.hizmetgo.app/arastirmalar/pazar-nabzi)
+- [Türkiye'nin Hizmet Takvimi — Google Trends analizi](https://www.hizmetgo.app/arastirmalar/hizmet-takvimi)
 - [Hizmetgo Araştırmaları](https://www.hizmetgo.app/arastirmalar)
 
 Makinece okunabilir veri paketi tanımı: [`datapackage.json`](datapackage.json)
@@ -25,7 +26,21 @@ dosyasında yer alır. Her kayıt bir çekirdek kategoriyi, üç gerçek arama
 niyetini ve doğrulama için kalıcı tüketici/hizmetveren kaynaklarını içerir.
 Kişisel veri, kullanıcı mesajı veya sentetik talep hacmi içermez.
 
-## Kapsam
+## Türkiye'nin Hizmet Takvimi — Google Trends
+
+23 Ağustos 2021–23 Ağustos 2026 döneminde Türkiye için 14 hizmet sorgusunun aylık göreli arama ilgisi, zirve ayı, mevsimsellik katsayısı ve klima montajı il endeksi yayımlanır.
+
+- [Hizmet bazında zirve ayı ve mevsimsellik](data/hizmetgo-hizmet-takvimi-2026-08.csv)
+- [Hizmet bazında aylık göreli ilgi](data/hizmetgo-hizmet-takvimi-aylik-2026-08.csv)
+- [Klima montajı il endeksi](data/hizmetgo-klima-montaji-il-endeksi-2026-08.csv)
+
+Google Trends değerleri 0–100 göreli ilgidir; mutlak arama hacmi değildir. Her sorgu bağımsız normalize edildiği için farklı terimler birbirine karşı “daha çok aranıyor” biçiminde sıralanamaz. Düşük sezon tabanına duyarlı uzun dönem yüzde değişimleri bu açık veri sürümünde yayımlanmaz.
+
+Önerilen atıf:
+
+> Hizmetgo (2026), _Türkiye'nin Hizmet Takvimi — Google Trends Analizi_, 23 Ağustos 2021–23 Ağustos 2026. https://www.hizmetgo.app/arastirmalar/hizmet-takvimi
+
+## Pazar Nabzı kapsamı
 
 - Dönem: 11 Mayıs–9 Ağustos 2026
 - Coğrafya: Türkiye

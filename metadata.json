@@ -18,5 +18,16 @@
     "hizmet pazaryeri",
     "açık veri",
     "şehir bazlı talep"
+  ],
+  "relatedDatasets": [
+    {
+      "title": "Türkiye'nin Hizmet Takvimi — Google Trends Analizi",
+      "source": "https://www.hizmetgo.app/arastirmalar/hizmet-takvimi",
+      "download": "https://www.hizmetgo.app/arastirmalar/hizmet-takvimi/indir",
+      "temporalCoverage": "2021-08-23/2026-08-23",
+      "spatialCoverage": "Türkiye",
+      "sourceProvider": "Google Trends",
+      "license": "CC-BY-4.0"
+    }
   ]
 }
