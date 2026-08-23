@@ -1,6 +1,8 @@
 # Hizmetgo Araştırma Verileri — Türkiye Hizmet Ekonomisi
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21886502.svg)](https://doi.org/10.5281/zenodo.21886502)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22068892.svg)](https://doi.org/10.5281/zenodo.22068892)
+
+**[Açık veri kataloğunu görüntüle](https://selimmarslann-cyber.github.io/hizmetgo-research-data/)**
 
 Bu depo, Hizmetgo'nun Türkiye hizmet ekonomisine ilişkin açık ve kaynak gösterilebilir veri paketlerini içerir. Pazar Nabzı platform taleplerini; Hizmet Takvimi ise Google Trends göreli arama ilgisini ayrı veri setleri olarak yayımlar.
 
