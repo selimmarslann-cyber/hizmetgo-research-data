@@ -1,0 +1,3721 @@
+{
+  "schemaVersion": 1,
+  "collectedAt": "2026-10-10T21:04:47.358Z",
+  "source": "Google Trends public Explore",
+  "options": {
+    "geo": "TR",
+    "period": "2021-10-01 2026-09-30",
+    "category": 0,
+    "property": "",
+    "hl": "tr-TR",
+    "tz": "-180"
+  },
+  "requestedTerms": [
+    "kombi bakımı",
+    "petek temizliği"
+  ],
+  "status": "complete",
+  "series": [
+    {
+      "term": "kombi bakımı",
+      "options": {
+        "geo": "TR",
+        "period": "2021-10-01 2026-09-30",
+        "category": 0,
+        "property": "",
+        "hl": "tr-TR",
+        "tz": "-180"
+      },
+      "points": [
+        {
+          "timestamp": 1632614400,
+          "label": "26 Eyl – 2 Eki 2021",
+          "value": 25,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1633219200,
+          "label": "3–9 Eki 2021",
+          "value": 48,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1633824000,
+          "label": "10–16 Eki 2021",
+          "value": 32,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1634428800,
+          "label": "17–23 Eki 2021",
+          "value": 32,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1635033600,
+          "label": "24–30 Eki 2021",
+          "value": 46,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1635638400,
+          "label": "31 Eki – 6 Kas 2021",
+          "value": 29,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1636243200,
+          "label": "7–13 Kas 2021",
+          "value": 30,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1636848000,
+          "label": "14–20 Kas 2021",
+          "value": 30,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1637452800,
+          "label": "21–27 Kas 2021",
+          "value": 21,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1638057600,
+          "label": "28 Kas – 4 Ara 2021",
+          "value": 23,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1638662400,
+          "label": "5–11 Ara 2021",
+          "value": 18,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1639267200,
+          "label": "12–18 Ara 2021",
+          "value": 22,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1639872000,
+          "label": "19–25 Ara 2021",
+          "value": 19,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1640476800,
+          "label": "26 Ara 2021 – 1 Oca 2022",
+          "value": 13,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1641081600,
+          "label": "2–8 Oca 2022",
+          "value": 17,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1641686400,
+          "label": "9–15 Oca 2022",
+          "value": 14,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1642291200,
+          "label": "16–22 Oca 2022",
+          "value": 18,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1642896000,
+          "label": "23–29 Oca 2022",
+          "value": 20,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1643500800,
+          "label": "30 Oca – 5 Şub 2022",
+          "value": 19,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1644105600,
+          "label": "6–12 Şub 2022",
+          "value": 10,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1644710400,
+          "label": "13–19 Şub 2022",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1645315200,
+          "label": "20–26 Şub 2022",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1645920000,
+          "label": "27 Şub – 5 Mar 2022",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1646524800,
+          "label": "6–12 Mar 2022",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1647129600,
+          "label": "13–19 Mar 2022",
+          "value": 13,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1647734400,
+          "label": "20–26 Mar 2022",
+          "value": 9,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1648339200,
+          "label": "27 Mar – 2 Nis 2022",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1648944000,
+          "label": "3–9 Nis 2022",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1649548800,
+          "label": "10–16 Nis 2022",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1650153600,
+          "label": "17–23 Nis 2022",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1650758400,
+          "label": "24–30 Nis 2022",
+          "value": 4,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1651363200,
+          "label": "1–7 May 2022",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1651968000,
+          "label": "8–14 May 2022",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1652572800,
+          "label": "15–21 May 2022",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1653177600,
+          "label": "22–28 May 2022",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1653782400,
+          "label": "29 May – 4 Haz 2022",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1654387200,
+          "label": "5–11 Haz 2022",
+          "value": 4,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1654992000,
+          "label": "12–18 Haz 2022",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1655596800,
+          "label": "19–25 Haz 2022",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1656201600,
+          "label": "26 Haz – 2 Tem 2022",
+          "value": 4,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1656806400,
+          "label": "3–9 Tem 2022",
+          "value": 4,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1657411200,
+          "label": "10–16 Tem 2022",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1658016000,
+          "label": "17–23 Tem 2022",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1658620800,
+          "label": "24–30 Tem 2022",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1659225600,
+          "label": "31 Tem – 6 Ağu 2022",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1659830400,
+          "label": "7–13 Ağu 2022",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1660435200,
+          "label": "14–20 Ağu 2022",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1661040000,
+          "label": "21–27 Ağu 2022",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1661644800,
+          "label": "28 Ağu – 3 Eyl 2022",
+          "value": 11,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1662249600,
+          "label": "4–10 Eyl 2022",
+          "value": 14,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1662854400,
+          "label": "11–17 Eyl 2022",
+          "value": 15,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1663459200,
+          "label": "18–24 Eyl 2022",
+          "value": 29,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1664064000,
+          "label": "25 Eyl – 1 Eki 2022",
+          "value": 24,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1664668800,
+          "label": "2–8 Eki 2022",
+          "value": 28,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1665273600,
+          "label": "9–15 Eki 2022",
+          "value": 41,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1665878400,
+          "label": "16–22 Eki 2022",
+          "value": 51,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1666483200,
+          "label": "23–29 Eki 2022",
+          "value": 42,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1667088000,
+          "label": "30 Eki – 5 Kas 2022",
+          "value": 37,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1667692800,
+          "label": "6–12 Kas 2022",
+          "value": 51,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1668297600,
+          "label": "13–19 Kas 2022",
+          "value": 50,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1668902400,
+          "label": "20–26 Kas 2022",
+          "value": 35,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1669507200,
+          "label": "27 Kas – 3 Ara 2022",
+          "value": 39,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1670112000,
+          "label": "4–10 Ara 2022",
+          "value": 24,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1670716800,
+          "label": "11–17 Ara 2022",
+          "value": 26,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1671321600,
+          "label": "18–24 Ara 2022",
+          "value": 21,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1671926400,
+          "label": "25–31 Ara 2022",
+          "value": 17,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1672531200,
+          "label": "1–7 Oca 2023",
+          "value": 15,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1673136000,
+          "label": "8–14 Oca 2023",
+          "value": 19,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1673740800,
+          "label": "15–21 Oca 2023",
+          "value": 15,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1674345600,
+          "label": "22–28 Oca 2023",
+          "value": 14,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1674950400,
+          "label": "29 Oca – 4 Şub 2023",
+          "value": 17,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1675555200,
+          "label": "5–11 Şub 2023",
+          "value": 11,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1676160000,
+          "label": "12–18 Şub 2023",
+          "value": 14,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1676764800,
+          "label": "19–25 Şub 2023",
+          "value": 9,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1677369600,
+          "label": "26 Şub – 4 Mar 2023",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1677974400,
+          "label": "5–11 Mar 2023",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1678579200,
+          "label": "12–18 Mar 2023",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1679184000,
+          "label": "19–25 Mar 2023",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1679788800,
+          "label": "26 Mar – 1 Nis 2023",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1680393600,
+          "label": "2–8 Nis 2023",
+          "value": 4,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1680998400,
+          "label": "9–15 Nis 2023",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1681603200,
+          "label": "16–22 Nis 2023",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1682208000,
+          "label": "23–29 Nis 2023",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1682812800,
+          "label": "30 Nis – 6 May 2023",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1683417600,
+          "label": "7–13 May 2023",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1684022400,
+          "label": "14–20 May 2023",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1684627200,
+          "label": "21–27 May 2023",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1685232000,
+          "label": "28 May – 3 Haz 2023",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1685836800,
+          "label": "4–10 Haz 2023",
+          "value": 3,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1686441600,
+          "label": "11–17 Haz 2023",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1687046400,
+          "label": "18–24 Haz 2023",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1687651200,
+          "label": "25 Haz – 1 Tem 2023",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1688256000,
+          "label": "2–8 Tem 2023",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1688860800,
+          "label": "9–15 Tem 2023",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1689465600,
+          "label": "16–22 Tem 2023",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1690070400,
+          "label": "23–29 Tem 2023",
+          "value": 4,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1690675200,
+          "label": "30 Tem – 5 Ağu 2023",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1691280000,
+          "label": "6–12 Ağu 2023",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1691884800,
+          "label": "13–19 Ağu 2023",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1692489600,
+          "label": "20–26 Ağu 2023",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1693094400,
+          "label": "27 Ağu – 2 Eyl 2023",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1693699200,
+          "label": "3–9 Eyl 2023",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1694304000,
+          "label": "10–16 Eyl 2023",
+          "value": 15,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1694908800,
+          "label": "17–23 Eyl 2023",
+          "value": 9,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1695513600,
+          "label": "24–30 Eyl 2023",
+          "value": 18,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1696118400,
+          "label": "1–7 Eki 2023",
+          "value": 23,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1696723200,
+          "label": "8–14 Eki 2023",
+          "value": 29,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1697328000,
+          "label": "15–21 Eki 2023",
+          "value": 33,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1697932800,
+          "label": "22–28 Eki 2023",
+          "value": 18,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1698537600,
+          "label": "29 Eki – 4 Kas 2023",
+          "value": 19,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1699142400,
+          "label": "5–11 Kas 2023",
+          "value": 19,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1699747200,
+          "label": "12–18 Kas 2023",
+          "value": 49,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1700352000,
+          "label": "19–25 Kas 2023",
+          "value": 61,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1700956800,
+          "label": "26 Kas – 2 Ara 2023",
+          "value": 36,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1701561600,
+          "label": "3–9 Ara 2023",
+          "value": 23,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1702166400,
+          "label": "10–16 Ara 2023",
+          "value": 18,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1702771200,
+          "label": "17–23 Ara 2023",
+          "value": 21,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1703376000,
+          "label": "24–30 Ara 2023",
+          "value": 17,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1703980800,
+          "label": "31 Ara 2023 – 6 Oca 2024",
+          "value": 13,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1704585600,
+          "label": "7–13 Oca 2024",
+          "value": 15,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1705190400,
+          "label": "14–20 Oca 2024",
+          "value": 14,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1705795200,
+          "label": "21–27 Oca 2024",
+          "value": 10,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1706400000,
+          "label": "28 Oca – 3 Şub 2024",
+          "value": 12,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1707004800,
+          "label": "4–10 Şub 2024",
+          "value": 12,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1707609600,
+          "label": "11–17 Şub 2024",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1708214400,
+          "label": "18–24 Şub 2024",
+          "value": 10,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1708819200,
+          "label": "25 Şub – 2 Mar 2024",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1709424000,
+          "label": "3–9 Mar 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1710028800,
+          "label": "10–16 Mar 2024",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1710633600,
+          "label": "17–23 Mar 2024",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1711238400,
+          "label": "24–30 Mar 2024",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1711843200,
+          "label": "31 Mar – 6 Nis 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1712448000,
+          "label": "7–13 Nis 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1713052800,
+          "label": "14–20 Nis 2024",
+          "value": 10,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1713657600,
+          "label": "21–27 Nis 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1714262400,
+          "label": "28 Nis – 4 May 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1714867200,
+          "label": "5–11 May 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1715472000,
+          "label": "12–18 May 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1716076800,
+          "label": "19–25 May 2024",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1716681600,
+          "label": "26 May – 1 Haz 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1717286400,
+          "label": "2–8 Haz 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1717891200,
+          "label": "9–15 Haz 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1718496000,
+          "label": "16–22 Haz 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1719100800,
+          "label": "23–29 Haz 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1719705600,
+          "label": "30 Haz – 6 Tem 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1720310400,
+          "label": "7–13 Tem 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1720915200,
+          "label": "14–20 Tem 2024",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1721520000,
+          "label": "21–27 Tem 2024",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1722124800,
+          "label": "28 Tem – 3 Ağu 2024",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1722729600,
+          "label": "4–10 Ağu 2024",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1723334400,
+          "label": "11–17 Ağu 2024",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1723939200,
+          "label": "18–24 Ağu 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1724544000,
+          "label": "25–31 Ağu 2024",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1725148800,
+          "label": "1–7 Eyl 2024",
+          "value": 9,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1725753600,
+          "label": "8–14 Eyl 2024",
+          "value": 11,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1726358400,
+          "label": "15–21 Eyl 2024",
+          "value": 13,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1726963200,
+          "label": "22–28 Eyl 2024",
+          "value": 17,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1727568000,
+          "label": "29 Eyl – 5 Eki 2024",
+          "value": 19,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1728172800,
+          "label": "6–12 Eki 2024",
+          "value": 17,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1728777600,
+          "label": "13–19 Eki 2024",
+          "value": 31,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1729382400,
+          "label": "20–26 Eki 2024",
+          "value": 60,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1729987200,
+          "label": "27 Eki – 2 Kas 2024",
+          "value": 34,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1730592000,
+          "label": "3–9 Kas 2024",
+          "value": 37,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1731196800,
+          "label": "10–16 Kas 2024",
+          "value": 31,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1731801600,
+          "label": "17–23 Kas 2024",
+          "value": 26,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1732406400,
+          "label": "24–30 Kas 2024",
+          "value": 30,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1733011200,
+          "label": "1–7 Ara 2024",
+          "value": 24,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1733616000,
+          "label": "8–14 Ara 2024",
+          "value": 25,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1734220800,
+          "label": "15–21 Ara 2024",
+          "value": 12,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1734825600,
+          "label": "22–28 Ara 2024",
+          "value": 16,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1735430400,
+          "label": "29 Ara 2024 – 4 Oca 2025",
+          "value": 15,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1736035200,
+          "label": "5–11 Oca 2025",
+          "value": 14,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1736640000,
+          "label": "12–18 Oca 2025",
+          "value": 15,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1737244800,
+          "label": "19–25 Oca 2025",
+          "value": 13,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1737849600,
+          "label": "26 Oca – 1 Şub 2025",
+          "value": 10,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1738454400,
+          "label": "2–8 Şub 2025",
+          "value": 14,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1739059200,
+          "label": "9–15 Şub 2025",
+          "value": 12,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1739664000,
+          "label": "16–22 Şub 2025",
+          "value": 14,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1740268800,
+          "label": "23 Şub – 1 Mar 2025",
+          "value": 16,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1740873600,
+          "label": "2–8 Mar 2025",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1741478400,
+          "label": "9–15 Mar 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1742083200,
+          "label": "16–22 Mar 2025",
+          "value": 9,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1742688000,
+          "label": "23–29 Mar 2025",
+          "value": 9,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1743292800,
+          "label": "30 Mar – 5 Nis 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1743897600,
+          "label": "6–12 Nis 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1744502400,
+          "label": "13–19 Nis 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1745107200,
+          "label": "20–26 Nis 2025",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1745712000,
+          "label": "27 Nis – 3 May 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1746316800,
+          "label": "4–10 May 2025",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1746921600,
+          "label": "11–17 May 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1747526400,
+          "label": "18–24 May 2025",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1748131200,
+          "label": "25–31 May 2025",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1748736000,
+          "label": "1–7 Haz 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1749340800,
+          "label": "8–14 Haz 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1749945600,
+          "label": "15–21 Haz 2025",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1750550400,
+          "label": "22–28 Haz 2025",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1751155200,
+          "label": "29 Haz – 5 Tem 2025",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1751760000,
+          "label": "6–12 Tem 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1752364800,
+          "label": "13–19 Tem 2025",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1752969600,
+          "label": "20–26 Tem 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1753574400,
+          "label": "27 Tem – 2 Ağu 2025",
+          "value": 9,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1754179200,
+          "label": "3–9 Ağu 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1754784000,
+          "label": "10–16 Ağu 2025",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1755388800,
+          "label": "17–23 Ağu 2025",
+          "value": 9,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1755993600,
+          "label": "24–30 Ağu 2025",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1756598400,
+          "label": "31 Ağu – 6 Eyl 2025",
+          "value": 9,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1757203200,
+          "label": "7–13 Eyl 2025",
+          "value": 9,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1757808000,
+          "label": "14–20 Eyl 2025",
+          "value": 13,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1758412800,
+          "label": "21–27 Eyl 2025",
+          "value": 13,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1759017600,
+          "label": "28 Eyl – 4 Eki 2025",
+          "value": 30,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1759622400,
+          "label": "5–11 Eki 2025",
+          "value": 40,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1760227200,
+          "label": "12–18 Eki 2025",
+          "value": 47,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1760832000,
+          "label": "19–25 Eki 2025",
+          "value": 35,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1761436800,
+          "label": "26 Eki – 1 Kas 2025",
+          "value": 21,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1762041600,
+          "label": "2–8 Kas 2025",
+          "value": 19,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1762646400,
+          "label": "9–15 Kas 2025",
+          "value": 28,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1763251200,
+          "label": "16–22 Kas 2025",
+          "value": 29,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1763856000,
+          "label": "23–29 Kas 2025",
+          "value": 20,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1764460800,
+          "label": "30 Kas – 6 Ara 2025",
+          "value": 25,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1765065600,
+          "label": "7–13 Ara 2025",
+          "value": 26,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1765670400,
+          "label": "14–20 Ara 2025",
+          "value": 18,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1766275200,
+          "label": "21–27 Ara 2025",
+          "value": 15,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1766880000,
+          "label": "28 Ara 2025 – 3 Oca 2026",
+          "value": 26,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1767484800,
+          "label": "4–10 Oca 2026",
+          "value": 100,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1768089600,
+          "label": "11–17 Oca 2026",
+          "value": 14,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1768694400,
+          "label": "18–24 Oca 2026",
+          "value": 19,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1769299200,
+          "label": "25–31 Oca 2026",
+          "value": 15,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1769904000,
+          "label": "1–7 Şub 2026",
+          "value": 10,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1770508800,
+          "label": "8–14 Şub 2026",
+          "value": 11,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1771113600,
+          "label": "15–21 Şub 2026",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1771718400,
+          "label": "22–28 Şub 2026",
+          "value": 12,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1772323200,
+          "label": "1–7 Mar 2026",
+          "value": 9,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1772928000,
+          "label": "8–14 Mar 2026",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1773532800,
+          "label": "15–21 Mar 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1774137600,
+          "label": "22–28 Mar 2026",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1774742400,
+          "label": "29 Mar – 4 Nis 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1775347200,
+          "label": "5–11 Nis 2026",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1775952000,
+          "label": "12–18 Nis 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1776556800,
+          "label": "19–25 Nis 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1777161600,
+          "label": "26 Nis – 2 May 2026",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1777766400,
+          "label": "3–9 May 2026",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1778371200,
+          "label": "10–16 May 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1778976000,
+          "label": "17–23 May 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1779580800,
+          "label": "24–30 May 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1780185600,
+          "label": "31 May – 6 Haz 2026",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1780790400,
+          "label": "7–13 Haz 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1781395200,
+          "label": "14–20 Haz 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1782000000,
+          "label": "21–27 Haz 2026",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1782604800,
+          "label": "28 Haz – 4 Tem 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1783209600,
+          "label": "5–11 Tem 2026",
+          "value": 9,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1783814400,
+          "label": "12–18 Tem 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1784419200,
+          "label": "19–25 Tem 2026",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1785024000,
+          "label": "26 Tem – 1 Ağu 2026",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1785628800,
+          "label": "2–8 Ağu 2026",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1786233600,
+          "label": "9–15 Ağu 2026",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1786838400,
+          "label": "16–22 Ağu 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1787443200,
+          "label": "23–29 Ağu 2026",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1788048000,
+          "label": "30 Ağu – 5 Eyl 2026",
+          "value": 13,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1788652800,
+          "label": "6–12 Eyl 2026",
+          "value": 11,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1789257600,
+          "label": "13–19 Eyl 2026",
+          "value": 14,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1789862400,
+          "label": "20–26 Eyl 2026",
+          "value": 17,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1790467200,
+          "label": "27 Eyl – 3 Eki 2026",
+          "value": 36,
+          "hasData": true,
+          "isPartial": false
+        }
+      ]
+    },
+    {
+      "term": "petek temizliği",
+      "options": {
+        "geo": "TR",
+        "period": "2021-10-01 2026-09-30",
+        "category": 0,
+        "property": "",
+        "hl": "tr-TR",
+        "tz": "-180"
+      },
+      "points": [
+        {
+          "timestamp": 1632614400,
+          "label": "26 Eyl – 2 Eki 2021",
+          "value": 31,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1633219200,
+          "label": "3–9 Eki 2021",
+          "value": 52,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1633824000,
+          "label": "10–16 Eki 2021",
+          "value": 33,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1634428800,
+          "label": "17–23 Eki 2021",
+          "value": 48,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1635033600,
+          "label": "24–30 Eki 2021",
+          "value": 63,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1635638400,
+          "label": "31 Eki – 6 Kas 2021",
+          "value": 43,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1636243200,
+          "label": "7–13 Kas 2021",
+          "value": 37,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1636848000,
+          "label": "14–20 Kas 2021",
+          "value": 38,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1637452800,
+          "label": "21–27 Kas 2021",
+          "value": 22,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1638057600,
+          "label": "28 Kas – 4 Ara 2021",
+          "value": 25,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1638662400,
+          "label": "5–11 Ara 2021",
+          "value": 26,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1639267200,
+          "label": "12–18 Ara 2021",
+          "value": 34,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1639872000,
+          "label": "19–25 Ara 2021",
+          "value": 43,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1640476800,
+          "label": "26 Ara 2021 – 1 Oca 2022",
+          "value": 23,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1641081600,
+          "label": "2–8 Oca 2022",
+          "value": 41,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1641686400,
+          "label": "9–15 Oca 2022",
+          "value": 25,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1642291200,
+          "label": "16–22 Oca 2022",
+          "value": 35,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1642896000,
+          "label": "23–29 Oca 2022",
+          "value": 33,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1643500800,
+          "label": "30 Oca – 5 Şub 2022",
+          "value": 29,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1644105600,
+          "label": "6–12 Şub 2022",
+          "value": 30,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1644710400,
+          "label": "13–19 Şub 2022",
+          "value": 28,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1645315200,
+          "label": "20–26 Şub 2022",
+          "value": 20,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1645920000,
+          "label": "27 Şub – 5 Mar 2022",
+          "value": 27,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1646524800,
+          "label": "6–12 Mar 2022",
+          "value": 24,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1647129600,
+          "label": "13–19 Mar 2022",
+          "value": 21,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1647734400,
+          "label": "20–26 Mar 2022",
+          "value": 12,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1648339200,
+          "label": "27 Mar – 2 Nis 2022",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1648944000,
+          "label": "3–9 Nis 2022",
+          "value": 4,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1649548800,
+          "label": "10–16 Nis 2022",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1650153600,
+          "label": "17–23 Nis 2022",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1650758400,
+          "label": "24–30 Nis 2022",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1651363200,
+          "label": "1–7 May 2022",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1651968000,
+          "label": "8–14 May 2022",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1652572800,
+          "label": "15–21 May 2022",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1653177600,
+          "label": "22–28 May 2022",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1653782400,
+          "label": "29 May – 4 Haz 2022",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1654387200,
+          "label": "5–11 Haz 2022",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1654992000,
+          "label": "12–18 Haz 2022",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1655596800,
+          "label": "19–25 Haz 2022",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1656201600,
+          "label": "26 Haz – 2 Tem 2022",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1656806400,
+          "label": "3–9 Tem 2022",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1657411200,
+          "label": "10–16 Tem 2022",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1658016000,
+          "label": "17–23 Tem 2022",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1658620800,
+          "label": "24–30 Tem 2022",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1659225600,
+          "label": "31 Tem – 6 Ağu 2022",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1659830400,
+          "label": "7–13 Ağu 2022",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1660435200,
+          "label": "14–20 Ağu 2022",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1661040000,
+          "label": "21–27 Ağu 2022",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1661644800,
+          "label": "28 Ağu – 3 Eyl 2022",
+          "value": 13,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1662249600,
+          "label": "4–10 Eyl 2022",
+          "value": 16,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1662854400,
+          "label": "11–17 Eyl 2022",
+          "value": 19,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1663459200,
+          "label": "18–24 Eyl 2022",
+          "value": 22,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1664064000,
+          "label": "25 Eyl – 1 Eki 2022",
+          "value": 33,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1664668800,
+          "label": "2–8 Eki 2022",
+          "value": 36,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1665273600,
+          "label": "9–15 Eki 2022",
+          "value": 51,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1665878400,
+          "label": "16–22 Eki 2022",
+          "value": 100,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1666483200,
+          "label": "23–29 Eki 2022",
+          "value": 69,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1667088000,
+          "label": "30 Eki – 5 Kas 2022",
+          "value": 56,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1667692800,
+          "label": "6–12 Kas 2022",
+          "value": 61,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1668297600,
+          "label": "13–19 Kas 2022",
+          "value": 64,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1668902400,
+          "label": "20–26 Kas 2022",
+          "value": 48,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1669507200,
+          "label": "27 Kas – 3 Ara 2022",
+          "value": 59,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1670112000,
+          "label": "4–10 Ara 2022",
+          "value": 44,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1670716800,
+          "label": "11–17 Ara 2022",
+          "value": 37,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1671321600,
+          "label": "18–24 Ara 2022",
+          "value": 42,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1671926400,
+          "label": "25–31 Ara 2022",
+          "value": 34,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1672531200,
+          "label": "1–7 Oca 2023",
+          "value": 26,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1673136000,
+          "label": "8–14 Oca 2023",
+          "value": 34,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1673740800,
+          "label": "15–21 Oca 2023",
+          "value": 20,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1674345600,
+          "label": "22–28 Oca 2023",
+          "value": 19,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1674950400,
+          "label": "29 Oca – 4 Şub 2023",
+          "value": 34,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1675555200,
+          "label": "5–11 Şub 2023",
+          "value": 34,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1676160000,
+          "label": "12–18 Şub 2023",
+          "value": 25,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1676764800,
+          "label": "19–25 Şub 2023",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1677369600,
+          "label": "26 Şub – 4 Mar 2023",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1677974400,
+          "label": "5–11 Mar 2023",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1678579200,
+          "label": "12–18 Mar 2023",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1679184000,
+          "label": "19–25 Mar 2023",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1679788800,
+          "label": "26 Mar – 1 Nis 2023",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1680393600,
+          "label": "2–8 Nis 2023",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1680998400,
+          "label": "9–15 Nis 2023",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1681603200,
+          "label": "16–22 Nis 2023",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1682208000,
+          "label": "23–29 Nis 2023",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1682812800,
+          "label": "30 Nis – 6 May 2023",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1683417600,
+          "label": "7–13 May 2023",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1684022400,
+          "label": "14–20 May 2023",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1684627200,
+          "label": "21–27 May 2023",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1685232000,
+          "label": "28 May – 3 Haz 2023",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1685836800,
+          "label": "4–10 Haz 2023",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1686441600,
+          "label": "11–17 Haz 2023",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1687046400,
+          "label": "18–24 Haz 2023",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1687651200,
+          "label": "25 Haz – 1 Tem 2023",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1688256000,
+          "label": "2–8 Tem 2023",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1688860800,
+          "label": "9–15 Tem 2023",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1689465600,
+          "label": "16–22 Tem 2023",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1690070400,
+          "label": "23–29 Tem 2023",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1690675200,
+          "label": "30 Tem – 5 Ağu 2023",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1691280000,
+          "label": "6–12 Ağu 2023",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1691884800,
+          "label": "13–19 Ağu 2023",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1692489600,
+          "label": "20–26 Ağu 2023",
+          "value": 5,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1693094400,
+          "label": "27 Ağu – 2 Eyl 2023",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1693699200,
+          "label": "3–9 Eyl 2023",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1694304000,
+          "label": "10–16 Eyl 2023",
+          "value": 10,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1694908800,
+          "label": "17–23 Eyl 2023",
+          "value": 10,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1695513600,
+          "label": "24–30 Eyl 2023",
+          "value": 15,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1696118400,
+          "label": "1–7 Eki 2023",
+          "value": 27,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1696723200,
+          "label": "8–14 Eki 2023",
+          "value": 36,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1697328000,
+          "label": "15–21 Eki 2023",
+          "value": 44,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1697932800,
+          "label": "22–28 Eki 2023",
+          "value": 28,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1698537600,
+          "label": "29 Eki – 4 Kas 2023",
+          "value": 18,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1699142400,
+          "label": "5–11 Kas 2023",
+          "value": 27,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1699747200,
+          "label": "12–18 Kas 2023",
+          "value": 62,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1700352000,
+          "label": "19–25 Kas 2023",
+          "value": 86,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1700956800,
+          "label": "26 Kas – 2 Ara 2023",
+          "value": 64,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1701561600,
+          "label": "3–9 Ara 2023",
+          "value": 32,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1702166400,
+          "label": "10–16 Ara 2023",
+          "value": 34,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1702771200,
+          "label": "17–23 Ara 2023",
+          "value": 24,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1703376000,
+          "label": "24–30 Ara 2023",
+          "value": 18,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1703980800,
+          "label": "31 Ara 2023 – 6 Oca 2024",
+          "value": 18,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1704585600,
+          "label": "7–13 Oca 2024",
+          "value": 25,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1705190400,
+          "label": "14–20 Oca 2024",
+          "value": 18,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1705795200,
+          "label": "21–27 Oca 2024",
+          "value": 19,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1706400000,
+          "label": "28 Oca – 3 Şub 2024",
+          "value": 26,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1707004800,
+          "label": "4–10 Şub 2024",
+          "value": 10,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1707609600,
+          "label": "11–17 Şub 2024",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1708214400,
+          "label": "18–24 Şub 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1708819200,
+          "label": "25 Şub – 2 Mar 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1709424000,
+          "label": "3–9 Mar 2024",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1710028800,
+          "label": "10–16 Mar 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1710633600,
+          "label": "17–23 Mar 2024",
+          "value": 9,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1711238400,
+          "label": "24–30 Mar 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1711843200,
+          "label": "31 Mar – 6 Nis 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1712448000,
+          "label": "7–13 Nis 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1713052800,
+          "label": "14–20 Nis 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1713657600,
+          "label": "21–27 Nis 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1714262400,
+          "label": "28 Nis – 4 May 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1714867200,
+          "label": "5–11 May 2024",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1715472000,
+          "label": "12–18 May 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1716076800,
+          "label": "19–25 May 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1716681600,
+          "label": "26 May – 1 Haz 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1717286400,
+          "label": "2–8 Haz 2024",
+          "value": 11,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1717891200,
+          "label": "9–15 Haz 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1718496000,
+          "label": "16–22 Haz 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1719100800,
+          "label": "23–29 Haz 2024",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1719705600,
+          "label": "30 Haz – 6 Tem 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1720310400,
+          "label": "7–13 Tem 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1720915200,
+          "label": "14–20 Tem 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1721520000,
+          "label": "21–27 Tem 2024",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1722124800,
+          "label": "28 Tem – 3 Ağu 2024",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1722729600,
+          "label": "4–10 Ağu 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1723334400,
+          "label": "11–17 Ağu 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1723939200,
+          "label": "18–24 Ağu 2024",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1724544000,
+          "label": "25–31 Ağu 2024",
+          "value": 12,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1725148800,
+          "label": "1–7 Eyl 2024",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1725753600,
+          "label": "8–14 Eyl 2024",
+          "value": 9,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1726358400,
+          "label": "15–21 Eyl 2024",
+          "value": 11,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1726963200,
+          "label": "22–28 Eyl 2024",
+          "value": 18,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1727568000,
+          "label": "29 Eyl – 5 Eki 2024",
+          "value": 18,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1728172800,
+          "label": "6–12 Eki 2024",
+          "value": 24,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1728777600,
+          "label": "13–19 Eki 2024",
+          "value": 34,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1729382400,
+          "label": "20–26 Eki 2024",
+          "value": 68,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1729987200,
+          "label": "27 Eki – 2 Kas 2024",
+          "value": 41,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1730592000,
+          "label": "3–9 Kas 2024",
+          "value": 43,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1731196800,
+          "label": "10–16 Kas 2024",
+          "value": 32,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1731801600,
+          "label": "17–23 Kas 2024",
+          "value": 41,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1732406400,
+          "label": "24–30 Kas 2024",
+          "value": 60,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1733011200,
+          "label": "1–7 Ara 2024",
+          "value": 38,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1733616000,
+          "label": "8–14 Ara 2024",
+          "value": 20,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1734220800,
+          "label": "15–21 Ara 2024",
+          "value": 31,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1734825600,
+          "label": "22–28 Ara 2024",
+          "value": 22,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1735430400,
+          "label": "29 Ara 2024 – 4 Oca 2025",
+          "value": 18,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1736035200,
+          "label": "5–11 Oca 2025",
+          "value": 17,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1736640000,
+          "label": "12–18 Oca 2025",
+          "value": 17,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1737244800,
+          "label": "19–25 Oca 2025",
+          "value": 15,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1737849600,
+          "label": "26 Oca – 1 Şub 2025",
+          "value": 9,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1738454400,
+          "label": "2–8 Şub 2025",
+          "value": 21,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1739059200,
+          "label": "9–15 Şub 2025",
+          "value": 28,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1739664000,
+          "label": "16–22 Şub 2025",
+          "value": 20,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1740268800,
+          "label": "23 Şub – 1 Mar 2025",
+          "value": 13,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1740873600,
+          "label": "2–8 Mar 2025",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1741478400,
+          "label": "9–15 Mar 2025",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1742083200,
+          "label": "16–22 Mar 2025",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1742688000,
+          "label": "23–29 Mar 2025",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1743292800,
+          "label": "30 Mar – 5 Nis 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1743897600,
+          "label": "6–12 Nis 2025",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1744502400,
+          "label": "13–19 Nis 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1745107200,
+          "label": "20–26 Nis 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1745712000,
+          "label": "27 Nis – 3 May 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1746316800,
+          "label": "4–10 May 2025",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1746921600,
+          "label": "11–17 May 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1747526400,
+          "label": "18–24 May 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1748131200,
+          "label": "25–31 May 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1748736000,
+          "label": "1–7 Haz 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1749340800,
+          "label": "8–14 Haz 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1749945600,
+          "label": "15–21 Haz 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1750550400,
+          "label": "22–28 Haz 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1751155200,
+          "label": "29 Haz – 5 Tem 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1751760000,
+          "label": "6–12 Tem 2025",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1752364800,
+          "label": "13–19 Tem 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1752969600,
+          "label": "20–26 Tem 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1753574400,
+          "label": "27 Tem – 2 Ağu 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1754179200,
+          "label": "3–9 Ağu 2025",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1754784000,
+          "label": "10–16 Ağu 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1755388800,
+          "label": "17–23 Ağu 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1755993600,
+          "label": "24–30 Ağu 2025",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1756598400,
+          "label": "31 Ağu – 6 Eyl 2025",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1757203200,
+          "label": "7–13 Eyl 2025",
+          "value": 12,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1757808000,
+          "label": "14–20 Eyl 2025",
+          "value": 12,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1758412800,
+          "label": "21–27 Eyl 2025",
+          "value": 20,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1759017600,
+          "label": "28 Eyl – 4 Eki 2025",
+          "value": 33,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1759622400,
+          "label": "5–11 Eki 2025",
+          "value": 38,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1760227200,
+          "label": "12–18 Eki 2025",
+          "value": 46,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1760832000,
+          "label": "19–25 Eki 2025",
+          "value": 32,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1761436800,
+          "label": "26 Eki – 1 Kas 2025",
+          "value": 34,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1762041600,
+          "label": "2–8 Kas 2025",
+          "value": 26,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1762646400,
+          "label": "9–15 Kas 2025",
+          "value": 31,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1763251200,
+          "label": "16–22 Kas 2025",
+          "value": 46,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1763856000,
+          "label": "23–29 Kas 2025",
+          "value": 30,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1764460800,
+          "label": "30 Kas – 6 Ara 2025",
+          "value": 31,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1765065600,
+          "label": "7–13 Ara 2025",
+          "value": 39,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1765670400,
+          "label": "14–20 Ara 2025",
+          "value": 40,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1766275200,
+          "label": "21–27 Ara 2025",
+          "value": 26,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1766880000,
+          "label": "28 Ara 2025 – 3 Oca 2026",
+          "value": 52,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1767484800,
+          "label": "4–10 Oca 2026",
+          "value": 25,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1768089600,
+          "label": "11–17 Oca 2026",
+          "value": 22,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1768694400,
+          "label": "18–24 Oca 2026",
+          "value": 31,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1769299200,
+          "label": "25–31 Oca 2026",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1769904000,
+          "label": "1–7 Şub 2026",
+          "value": 13,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1770508800,
+          "label": "8–14 Şub 2026",
+          "value": 11,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1771113600,
+          "label": "15–21 Şub 2026",
+          "value": 11,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1771718400,
+          "label": "22–28 Şub 2026",
+          "value": 9,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1772323200,
+          "label": "1–7 Mar 2026",
+          "value": 9,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1772928000,
+          "label": "8–14 Mar 2026",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1773532800,
+          "label": "15–21 Mar 2026",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1774137600,
+          "label": "22–28 Mar 2026",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1774742400,
+          "label": "29 Mar – 4 Nis 2026",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1775347200,
+          "label": "5–11 Nis 2026",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1775952000,
+          "label": "12–18 Nis 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1776556800,
+          "label": "19–25 Nis 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1777161600,
+          "label": "26 Nis – 2 May 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1777766400,
+          "label": "3–9 May 2026",
+          "value": 6,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1778371200,
+          "label": "10–16 May 2026",
+          "value": 9,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1778976000,
+          "label": "17–23 May 2026",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1779580800,
+          "label": "24–30 May 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1780185600,
+          "label": "31 May – 6 Haz 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1780790400,
+          "label": "7–13 Haz 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1781395200,
+          "label": "14–20 Haz 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1782000000,
+          "label": "21–27 Haz 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1782604800,
+          "label": "28 Haz – 4 Tem 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1783209600,
+          "label": "5–11 Tem 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1783814400,
+          "label": "12–18 Tem 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1784419200,
+          "label": "19–25 Tem 2026",
+          "value": 13,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1785024000,
+          "label": "26 Tem – 1 Ağu 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1785628800,
+          "label": "2–8 Ağu 2026",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1786233600,
+          "label": "9–15 Ağu 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1786838400,
+          "label": "16–22 Ağu 2026",
+          "value": 7,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1787443200,
+          "label": "23–29 Ağu 2026",
+          "value": 0,
+          "hasData": false,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1788048000,
+          "label": "30 Ağu – 5 Eyl 2026",
+          "value": 12,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1788652800,
+          "label": "6–12 Eyl 2026",
+          "value": 8,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1789257600,
+          "label": "13–19 Eyl 2026",
+          "value": 13,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1789862400,
+          "label": "20–26 Eyl 2026",
+          "value": 21,
+          "hasData": true,
+          "isPartial": false
+        },
+        {
+          "timestamp": 1790467200,
+          "label": "27 Eyl – 3 Eki 2026",
+          "value": 42,
+          "hasData": true,
+          "isPartial": false
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "methodologicalLimits": [
+    "Relative search interest, not unique people, demand, orders, or paid jobs.",
+    "No 2026 October observations or current-growth claim.",
+    "Independent term normalization: no cross-term volume ranking.",
+    "Google sample may change; no confidence interval available from this one pull."
+  ]
+}

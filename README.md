@@ -6,6 +6,19 @@
 
 Bu depo, Hizmetgo'nun Türkiye hizmet ekonomisine ilişkin açık ve kaynak gösterilebilir veri paketlerini içerir. Pazar Nabzı platform taleplerini; Hizmet Takvimi ise Google Trends göreli arama ilgisini ayrı veri setleri olarak yayımlar.
 
+
+## Yeni: Kış Hazırlığının Arama Takvimi — 11 Ekim 2026
+
+2022–2025'in dört tamamlanmış sonbaharında Ekim/Eylül göreli arama ilgisi oranlarının medyanı kombi bakımında 2,10, petek temizliğinde 2,84 kat. Google Trends, Türkiye / Web Search, 1 Ekim 2021–30 Eylül 2026 örnek çekimi. 104 sonbahar haftalık terim gözlemi; bu ölçüm kişi, sipariş, fiyat değişimi veya 2026 Ekim gerçekleşmesi değildir.
+
+- [Araştırma ve yöntem](https://www.hizmetgo.app/arastirmalar/kis-hazirligi-arama-takvimi)
+- [Haber, PDF ve grafik dosyaları](https://selimmarslann-cyber.github.io/hizmetgo-research-data/press/2026-10-11/)
+- [Yıllık hesap CSV'si](docs/press/2026-10-11/autumn-paired-years.csv)
+- [Kaynak örnek çekimi](docs/press/2026-10-11/autumn-trends-raw-safe.json)
+- [Tekrar hesaplama betiği](docs/press/2026-10-11/analyze-autumn.cjs)
+
+Hizmetgo'nun özgün analiz ve grafikleri CC BY 4.0; Google kaynak verisi kendi koşullarına tabidir. Üstteki DOI 23 Ağustos 2026 paketine aittir; yeni Ekim çalışmasına DOI atanmamıştır.
+
 ## Kaynak
 
 Güncel metodoloji, görselleştirmeler ve indirilebilir veri için:

@@ -1,0 +1,53 @@
+{
+  "createdAt": "2026-10-10T21:22:39.293Z",
+  "primaryUrl": "https://www.hizmetgo.app/arastirmalar/kis-hazirligi-arama-takvimi",
+  "sourceWindow": "2021-10-01 2026-09-30",
+  "analysisYears": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "files": [
+    {
+      "filename": "basin-dosyasi.pdf",
+      "sha256": "5886561c599ab87c3949a1ecf861d182df5bf57a9225b9d9666cfb721ee88414",
+      "bytes": 176554
+    },
+    {
+      "filename": "ekim-eylul-arama-ilgisi.png",
+      "sha256": "37869a45761e9426f105cda71ec03afe11e74d9408ad37bfc6eb99d783ec30ce",
+      "bytes": 79255
+    },
+    {
+      "filename": "ekim-eylul-arama-ilgisi.svg",
+      "sha256": "fbd411938fe40d6295be2e061608909df59008fcedcde900d55b77907167f495",
+      "bytes": 15001
+    },
+    {
+      "filename": "haber-metni.md",
+      "sha256": "7e64d208d551f60cc626b4f722b463e886d2e21b9d10dca86caaecb1c829cdd9",
+      "bytes": 3774
+    },
+    {
+      "filename": "autumn-paired-years.csv",
+      "sha256": "3497ab7897359d1c3391c602bb7da24c39a5e789ca7aa5f4469d9b1b406ab4aa",
+      "bytes": 754
+    },
+    {
+      "filename": "autumn-analysis.json",
+      "sha256": "678577aa9c4758982106d2baf4ad25264d71f7ea03353c6a578df0b0225f435c",
+      "bytes": 28034
+    },
+    {
+      "filename": "autumn-trends-raw-safe.json",
+      "sha256": "ef1c3bed9c142f857b4a20b2e14acb6ada7e35d763e4f08c76961c49e1e8e589",
+      "bytes": 93138
+    },
+    {
+      "filename": "analyze-autumn.cjs",
+      "sha256": "19cf0fe3c0e6d6fdb4d10fefda73e54eb495123cdc3cd4c8da7a8e43b3fa64de",
+      "bytes": 4808
+    }
+  ]
+}
