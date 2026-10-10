@@ -17,7 +17,7 @@ Bu depo, Hizmetgo'nun Türkiye hizmet ekonomisine ilişkin açık ve kaynak gös
 - [Kaynak örnek çekimi](docs/press/2026-10-11/autumn-trends-raw-safe.json)
 - [Tekrar hesaplama betiği](docs/press/2026-10-11/analyze-autumn.cjs)
 
-Hizmetgo'nun özgün analiz ve grafikleri CC BY 4.0; Google kaynak verisi kendi koşullarına tabidir. Üstteki DOI 23 Ağustos 2026 paketine aittir; yeni Ekim çalışmasına DOI atanmamıştır.
+Hizmetgo'nun özgün analiz ve grafikleri CC BY 4.0; Google kaynak verisi kendi koşullarına tabidir. Üstteki DOI 23 Ağustos 2026 paketine aittir; yeni Ekim çalışmasının ayrı DOI kaydı: https://doi.org/10.5281/zenodo.23289105.
 
 ## Kaynak
 
@@ -96,3 +96,10 @@ geçici tekil ilanlara değil, ilgili kategorideki güncel ilan akışına yönl
 ## Lisans
 
 Veri ve dokümantasyon [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) kapsamında yayımlanır. Kullanımda Hizmetgo Pazar Nabzı kaynak sayfasına bağlantı verilmelidir.
+
+## Yılları seçerek inceleyin
+
+- [Sekiz yıllık hesap satırı ve erişilebilir grafik keşfi](https://selimmarslann-cyber.github.io/hizmetgo-research-data/explore/kis-hazirligi/)
+- [11 Ekim 2026 çalışmasının kalıcı kaydı](https://doi.org/10.5281/zenodo.23289105)
+
+Grafik, görünen tablo ve CSV aynı yıllık değerlerden üretilir. Seçilen yıl üstteki dört-yıl medyanlarını değiştirmez.
